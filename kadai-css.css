@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* ヘッダー */
+header {
+  width: 1000px;
+  background-color: #ffcccc;
+}
+
+/* ラッパー */
+#wrapper{
+  width: 1000px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* メイン */
+#main{
+  width: 700px;
+  background-color: #ccffcc;
+}
+
+/* メニュー */
+#menu{
+  width: 300px;
+  background-color: #ccccff;  
+}
+
+/* フッター */
+footer{
+  width: 1000px;
+  background-color: #ffccff;
+}
